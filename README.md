@@ -1,2 +1,5 @@
 # Programas_Python_DS62
-Programas desarrollados en los Webinars del Sprint 7
+
+**Autor:** Juan Sebastian Araujo
+
+Programas desarrollados en los Webinars del Sprint 7.
